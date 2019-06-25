@@ -1,6 +1,11 @@
 {
   "name": "Hello World PWA",
   "short_name": "Hi",
+  "icons": [{
+    "src": "icons/512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
   "start_url": "/",
   "gcm_sender_id": "103953800507",
   "display": "standalone",
